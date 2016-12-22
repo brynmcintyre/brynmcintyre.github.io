@@ -1,9 +1,12 @@
-<h1> Hello World</h1>
-<br>or
- <br>
+
+## Hello World
+
+or
  
-<h1> Hello Github</h1><br>
+ 
+## Hello Github
 It's my intention to publicly host side and hobby projects in an attempt to contribute to the open source community and the digital age.
- <br><br>
+ 
+
  
 That's nice and vague and the same intention as any other gh user. But good enough for now.
